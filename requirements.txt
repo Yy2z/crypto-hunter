@@ -1,0 +1,7 @@
+openai
+tavily-python
+python-dotenv
+tabulate
+streamlit
+pandas
+openpyxl
